@@ -46,8 +46,6 @@ HTML cleaned up, trailing slashes on void elements removed.
 
 CSS cleaned up, styles consolidated.
 
-Alt attributes on decorative image and icon elements given a null text alternative (alt="") as per [WAI guidelines](https://www.w3.org/WAI/tutorials/images/decorative/#example-4-image-used-for-ambiance-eye-candy).
-
 Background color of sidebar failed WCAG 2 Contrast and Color Requirements, changed from [#2589bd](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=2589BD) to
 [#227BAA](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=227BAA)
 
