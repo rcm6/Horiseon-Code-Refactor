@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor 
+# Horiseon Code Refactor 
 
 ## Description
 The task was to refactor the existing webpage for 'Horiseon Social Solution Services, Inc.' to make it accessible by accomplishing the following: 
@@ -51,6 +51,12 @@ Alt attributes on decorative image and icon elements given a null text alternati
 Background color of sidebar failed WCAG 2 Contrast and Color Requirements, changed from [#2589bd](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=2589BD) to
 [#227BAA](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=227BAA)
 
+## Screengrab
+![Project Screenshot](/Screenshot.png?raw=true)
+
+## Link
+[https://rcm6.github.io/Horiseon-Code-Refactor/
+](https://rcm6.github.io/Horiseon-Code-Refactor/)
 ## Installation
 N/A
 
